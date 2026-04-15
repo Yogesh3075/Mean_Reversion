@@ -45,8 +45,6 @@ The project is structured into four modular layers:
 #### **File Outputs**
 * **`data/parquet/`**: Local storage of historical stock data.
 * **`results/universe_results.csv`**: A comprehensive CSV containing 25 KPIs for every stock in the Nifty 100.
-* **`results/mean_reversion_lines.png`**: A line graph visualizing the equity curves of the top 10 performers.
-
 ---
 
 ### Performance Metrics Explained
