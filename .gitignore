@@ -1,0 +1,22 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# --- Data & Results (Crucial for your project) ---
+# We ignore the data folder because Parquet files are large
+data/
+#results/
+*.parquet
+*.csv
+*.png
+*.html
+
+# --- IDE Specific ---
+.vscode/
+.idea/
+.DS_Store
